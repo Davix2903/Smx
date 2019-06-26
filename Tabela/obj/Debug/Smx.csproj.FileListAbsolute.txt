@@ -1,0 +1,14 @@
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.exe.config
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.exe.manifest
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.application
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.exe
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.pdb
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Smx.csprojAssemblyReference.cache
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Smx.Form1.resources
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.Properties.Resources.resources
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Smx.csproj.GenerateResource.cache
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Smx.csproj.CoreCompileInputs.cache
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.exe.manifest
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.application
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.exe
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.pdb

@@ -1,0 +1,10 @@
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.Form1.resources
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.Properties.Resources.resources
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.csproj.GenerateResource.cache
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.csproj.CoreCompileInputs.cache
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.exe.config
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.exe
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\bin\Debug\Tabela.pdb
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.exe
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.pdb
+C:\Users\davi.ferreira\Desktop\VS Projects\Placar\Tabela\obj\Debug\Tabela.csprojAssemblyReference.cache
